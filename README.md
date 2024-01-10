@@ -1,6 +1,6 @@
 # Another Eagler client in the browser
 
-Like my other serverless client, this is 1.5.2 but this is EXPERIMENTAL and probably not supported.
+Like my other serverless client, this is 1.5.2 but this is EXPERIMENTAL and probably not supported. It is supposed to have builtin shaders from 1.8.8 u19, but does'nt right now.
 There is full support for both singleplayer and multiplayer, though the latter is still in development.
 
 This probably won't even work, just a little experiment on my part.
